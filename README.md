@@ -1,5 +1,3 @@
-# 📄 README.md
-
 # 🤖 AI Chatbot Desktop App (PyQt6)
 
 A simple AI-powered chatbot desktop application built using Python and PyQt6.  
